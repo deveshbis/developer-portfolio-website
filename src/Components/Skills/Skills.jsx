@@ -6,6 +6,7 @@ import react from '../../assets/skills/react.png'
 import firebase from '../../assets/skills/firebase.png'
 import nodejs from '../../assets/skills/node-js.png'
 import mongoDB from '../../assets/skills/mongoDB.webp'
+import next from '../../assets/skills//next.svg'
 
 
 const Skills = () => {
@@ -15,7 +16,7 @@ const Skills = () => {
             <div className="max-w-5xl max-sm:max-w-sm mx-auto">
                 <h2 className="text-gray-800 text-4xl font-extrabold text-center">Technologies Skills</h2>
 
-                <div className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 gap-8 text-center mt-12">
+                <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-8 text-center mt-12">
                     <div className="bg-white py-4 px-2 shadow-md rounded-lg hover:scale-110 transition-all duration-500">
                         <img src={html} className="w-36 h-36 rounded-full inline-block" />
 
@@ -49,6 +50,13 @@ const Skills = () => {
 
                         <div className="mt-4">
                             <h4 className="text-gray-800 text-base font-bold">React JS</h4>
+                        </div>
+                    </div>
+                    <div className="bg-white py-4 px-2 shadow-md rounded-lg hover:scale-110 transition-all duration-500">
+                        <img src={next} className="w-36 h-36 rounded-full inline-block" />
+
+                        <div className="mt-4">
+                            <h4 className="text-gray-800 text-base font-bold">Next JS</h4>
                         </div>
                     </div>
                     <div className="bg-white py-4 px-2 shadow-md rounded-lg hover:scale-110 transition-all duration-500">
