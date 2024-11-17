@@ -3,7 +3,7 @@
 const Footer = () => {
     return (
         <div>
-            <footer className="bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 font-sans tracking-wide">
+            <footer className="bg-gradient-to-b from-[#4e0083] to-[#796089] font-sans tracking-wide">
                 <div className="py-12 px-12 mt-2">
                     <div className="flex flex-wrap items-center sm:justify-between max-sm:flex-col gap-6">
                         <div>

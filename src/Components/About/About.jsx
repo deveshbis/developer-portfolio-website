@@ -1,6 +1,6 @@
 import { Zoom } from 'react-awesome-reveal';
 import proflePic2 from '../../assets/devesh.jpg'
-import profleCV from '../../assets/Devesh_Biswas.pdf'
+import profleCV from '../../assets/Resume_of_Devesh_Biswas.pdf'
 
 
 const About = () => {
@@ -32,7 +32,7 @@ const About = () => {
 
                             <div className="mt-6">
                                 {/* <button href="Resume of Devesh Biswas.pdf" className="bg-purple-600 text-sm  p-3 font-semibold rounded-lg text-white">Download CV</button> */}
-                                <a href={profleCV} download className="bg-purple-600 text-sm p-3 font-semibold rounded-lg text-white">Download CV</a>
+                                <a href={profleCV} download className="bg-purple-600 text-sm p-3 font-semibold rounded-lg text-white">Download Resume</a>
 
                             </div>
                         </div>

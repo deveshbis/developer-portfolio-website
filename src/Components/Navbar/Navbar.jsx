@@ -26,9 +26,9 @@ const Navbar = () => {
     }, []);
 
     return (
-        <header className='flex bg-[#121533] py-3 px-6 sm:px-10 font-[sans-serif] min-h-[70px] tracking-wide relative z-50'>
+        <header className='flex bg-gradient-to-b from-[#4e0083] to-[#796089] py-3 px-6 sm:px-10 font-[sans-serif] min-h-[70px] tracking-wide relative z-50'>
             <div className='flex flex-wrap items-center justify-between gap-4 w-full'>
-                <a href="javascript:void(0)"><h1 className='w-36 text-white text-3xl'> Portfolio.</h1>
+                <a href="javascript:void(0)"><h1 className='w-36 text-white text-3xl'> Devesh.</h1>
                 </a>
 
                 <div id="collapseMenu"
