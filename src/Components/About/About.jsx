@@ -23,7 +23,7 @@ const About = () => {
                             <h2 className="text-5xl font-extrabold mb-4">About <span className='text-purple-700'>Me</span></h2>
 
                             <p className="mb-2 leading-6">
-                                As a front-end developer, I specialize in creating user-facing interfaces that are visually appealing, intuitive, and responsive. My skills include proficiency in HTML, CSS and JavaScript, along with frameworks like React and Tailwindcss. I have experience collaborating with designers and backend developers to ensure seamless integration of UI elements with backend functionalities.
+                                As a Web-developer, I specialize in creating user-facing interfaces that are visually appealing, intuitive, and responsive. My skills include proficiency in HTML, CSS and JavaScript, along with frameworks like React and Tailwindcss. I have experience collaborating with designers and backend developers to ensure seamless integration of UI elements with backend functionalities.
                             </p>
                             <p>
                                 My goal is to create engaging web experiences that not only meet but exceed user expectations. I aim to stay updated with the latest trends and technologies in front-end development to continually enhance my skills and deliver cutting-edge solutions. Ultimately, I strive to contribute to projects that make a positive impact and provide users with a seamless and enjoyable digital experience.

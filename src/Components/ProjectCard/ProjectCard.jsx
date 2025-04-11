@@ -13,7 +13,7 @@ const ProjectCard = ({ project }) => {
   } = project;
 
   return (
-    <div className="bg-gradient-to-b from-indigo-800 to-indigo-600 text-white rounded-lg overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300">
+    <div className="bg-gradient-to-b from-indigo-800 to-indigo-600 text-white rounded-lg overflow-hidden shadow-lg">
       <Zoom duration={3000}>
         <img src={image} alt={projectName} className="w-full h-64 object-cover" />
       </Zoom>
